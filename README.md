@@ -1,5 +1,7 @@
 # Cortex Agent Evaluation
 
+<img width="85" alt="map-user" src="https://img.shields.io/badge/views-001-green"> <img width="125" alt="map-user" src="https://img.shields.io/badge/unique visits-001-green">
+
 This GitHub repository demonstrates how to set up an Agent evaluation run on an existing Cortex Investment Research Assistant agent. Including using ground truth data and evaluating answer correctness and logical consistency.
 
 ## How to deploy / use the code sample(s)
