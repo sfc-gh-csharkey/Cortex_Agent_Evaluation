@@ -20,3 +20,6 @@ Provide a name, description for the evaluation run. Then click on next
 
 Evaluation runs use [Snowflake Data Sets](https://docs.snowflake.com/en/developer-guide/snowflake-ml/dataset) as their input. We will use the UI to create a dataset from our table. 
 
+Select create a new dataset. Select the database, schema and source table that you created via. the [0_CREATE_EVAL_DATASET.sql](https://github.com/sfc-gh-csharkey/Cortex_Agent_Evaluation/blob/main/0_CREATE_EVAL_DATASET.sql) 
+
+<img width="800" alt="quick_setup" src="https://github.com/sfc-gh-csharkey/Cortex_Agent_Evaluation/blob/main/README/3_readme.png">
