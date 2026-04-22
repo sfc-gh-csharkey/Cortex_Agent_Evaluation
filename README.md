@@ -23,3 +23,7 @@ Evaluation runs use [Snowflake Data Sets](https://docs.snowflake.com/en/develope
 Select create a new dataset. Select the database, schema and source table that you created via. the [0_CREATE_EVAL_DATASET.sql](https://github.com/sfc-gh-csharkey/Cortex_Agent_Evaluation/blob/main/0_CREATE_EVAL_DATASET.sql). Then click on next 
 
 <img width="800" alt="quick_setup" src="https://github.com/sfc-gh-csharkey/Cortex_Agent_Evaluation/blob/main/README/3_readme.png">
+
+Configure the input query, enable the answer correctness with ground truth and enable logical consistency. Then click create
+
+<img width="800" alt="quick_setup" src="https://github.com/sfc-gh-csharkey/Cortex_Agent_Evaluation/blob/main/README/4_readme.png">
