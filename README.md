@@ -12,5 +12,8 @@ This GitHub repository demonstrates how to set up an Agent evaluation run on an 
 
 Begin by navigating to the Snowsight web UI, agents, INVESTMENT_RESEARCH_ASSISTANT and finally evaluations. Click on create evaluation run 
 
-<img width="900" alt="quick_setup" src="https://github.com/sfc-gh-csharkey/Cortex_Agent_Evaluation/blob/main/README/1_readme.png">
+<img width="800" alt="quick_setup" src="https://github.com/sfc-gh-csharkey/Cortex_Agent_Evaluation/blob/main/README/1_readme.png">
   
+Provide a name, description for the evaluation run. Then click on next
+
+<img width="700" alt="quick_setup" src="https://github.com/sfc-gh-csharkey/Cortex_Agent_Evaluation/blob/main/README/2_readme.png">
