@@ -27,3 +27,11 @@ Select create a new dataset. Select the database, schema and source table that y
 Configure the input query, enable the answer correctness with ground truth and enable logical consistency. Then click create
 
 <img width="800" alt="quick_setup" src="https://github.com/sfc-gh-csharkey/Cortex_Agent_Evaluation/blob/main/README/4_readme.png">
+
+Monitor the status of the evaluation run. Click on the evaluation to see the details
+
+<img width="800" alt="quick_setup" src="https://github.com/sfc-gh-csharkey/Cortex_Agent_Evaluation/blob/main/README/5_readme.png">
+
+The detailed view will show you evaluation per input, you can click on any individual input to see the details
+
+<img width="800" alt="quick_setup" src="https://github.com/sfc-gh-csharkey/Cortex_Agent_Evaluation/blob/main/README/6_readme.png">
