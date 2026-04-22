@@ -17,3 +17,6 @@ Begin by navigating to the Snowsight web UI, agents, INVESTMENT_RESEARCH_ASSISTA
 Provide a name, description for the evaluation run. Then click on next
 
 <img width="700" alt="quick_setup" src="https://github.com/sfc-gh-csharkey/Cortex_Agent_Evaluation/blob/main/README/2_readme.png">
+
+Evaluation runs use [Snowflake Data Sets](https://docs.snowflake.com/en/developer-guide/snowflake-ml/dataset) as their input. We will use the UI to create a dataset from our table. 
+
